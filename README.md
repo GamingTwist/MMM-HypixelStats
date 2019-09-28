@@ -1,3 +1,5 @@
+**I plan to start this after I get my mirror made and setup**
+
 **Magic Mirror Modul - FortniteStats**
 
 **You need:**
